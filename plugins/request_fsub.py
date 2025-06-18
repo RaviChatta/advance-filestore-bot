@@ -651,11 +651,6 @@ async def handle_join_request(client: Client, chat_join_request):
         if mode == "on" and not await db.req_user_exist(chat_id, user_id):
             await db.req_user(chat_id, user_id)
             logger.info(f"Added join request for user {user_id} in channel {chat_id}")
-            try:
-                await client.approve_chat_join_request(chat_id, user_id)
-                logger.info(f"Approved join request for user {user_id} in channel {chat_id}")
-            except Exception as e:
-                logger.error(f"Failed to approve join request for user {user_id} in channel {chat_id}: {e}")
 
 @Bot.on_message(filters.command('addchnl') & filters.private & admin)
 async def add_force_sub(client: Client, message: Message):
