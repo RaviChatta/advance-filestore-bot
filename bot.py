@@ -50,6 +50,18 @@ class Bot(Client):
         usr_bot_me = await self.get_me()
         self.uptime = datetime.now()
 
+        # ======================= নতুন কোড শুরু =======================
+        # চ্যাট ক্যাশ ওয়ার্ম আপ করার জন্য get_dialogs() চালানো হচ্ছে
+        # এটি নিশ্চিত করবে যে বট তার সকল চ্যাটের তথ্য লোড করেছে
+        self.LOGGER.info("Warming up chat cache...")
+        try:
+            async for _ in self.get_dialogs():
+                pass
+            self.LOGGER.info("Chat cache warmed up successfully.")
+        except Exception as e:
+            self.LOGGER.error(f"Error during chat cache warm-up: {e}")
+        # ======================= নতুন কোড শেষ =========================
+
         # Load settings from database
         global PROTECT_CONTENT, HIDE_CAPTION, DISABLE_CHANNEL_BUTTON, BUTTON_NAME, BUTTON_LINK
         settings = await db.get_settings()
