@@ -146,12 +146,12 @@ async def start_command(client: Client, message: Message):
                     reply_markup.inline_keyboard + custom_button.inline_keyboard
                 )
             try:
-                copied_msg = await msg.copy(chat_id=user_id, caption=caption, parse_mode=ParseMode.HTML, 
+                copied_msg = await msg.copy(chat_id=user_id, caption=caption, parse_mode=ParseMode.HTML,
                                             reply_markup=reply_markup, protect_content=PROTECT_CONTENT)
                 animelord_msgs.append(copied_msg)
             except FloodWait as e:
                 await asyncio.sleep(e.x)
-                copied_msg = await msg.copy(chat_id=user_id, caption=caption, parse_mode=ParseMode.HTML, 
+                copied_msg = await msg.copy(chat_id=user_id, caption=caption, parse_mode=ParseMode.HTML,
                                             reply_markup=reply_markup, protect_content=PROTECT_CONTENT)
                 animelord_msgs.append(copied_msg)
             except Exception as e:
@@ -164,10 +164,10 @@ async def start_command(client: Client, message: Message):
                 message_effect_id=random.choice(MESSAGE_MESSAGE_EFFECT_IDS)
             )
             await asyncio.sleep(FILE_AUTO_DELETE)
-            for snt_msg in animelord_msgs:    
+            for snt_msg in animelord_msgs:
                 if snt_msg:
-                    try:    
-                        await snt_msg.delete()  
+                    try:
+                        await snt_msg.delete()
                     except Exception as e:
                         print(f"ᴇʀʀɪʀ ᴅᴇʟᴇᴛɪɴɢ ᴍᴇssᴀɢᴇ {snt_msg.id}: {e}")
             try:
@@ -315,8 +315,7 @@ async def not_joined(client: Client, message: Message):
                 mention=message.from_user.mention,
                 id=message.from_user.id
             ),
-            reply_markup=InlineKeyboardMarkup(buttons),
-            message_effect_id=random.choice(MESSAGE_MESSAGE_EFFECT_IDS)
+            reply_markup=InlineKeyboardMarkup(buttons)
         )
     except Exception as e:
         logger.error(f"Final error in not_joined: {e}")
@@ -454,7 +453,7 @@ async def total_verify_count_cmd(client, message: Message):
                              message_effect_id=random.choice(MESSAGE_MESSAGE_EFFECT_IDS))
 
 @Bot.on_message(filters.command('commands') & filters.private & admin)
-async def bcmd(bot: Bot, message: Message):        
+async def bcmd(bot: Bot, message: Message):
     reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("ᴄʟɪsᴇ", callback_data="close")]])
     await message.reply_text(text=CMD_TXT, reply_markup=reply_markup, quote=True,
                              message_effect_id=random.choice(MESSAGE_MESSAGE_EFFECT_IDS))
