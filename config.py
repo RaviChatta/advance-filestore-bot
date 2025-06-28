@@ -18,7 +18,7 @@ from database.database import db # Updated import
 # MehediYT69
 # --------------------------------------------
 # Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7598604465:AAEhQdgJslNACsF2NDkGVEjYZno-vWliEwk")
 APP_ID = int(os.environ.get("APP_ID", "22922577"))
 API_HASH = os.environ.get("API_HASH", "ff5513f0b7e10b92a940bd107e1ac32a")
 #--------------------------------------------
@@ -29,7 +29,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "1047253913"))  # Owner id
 #--------------------------------------------
 PORT = os.environ.get("PORT", "8080")
 #--------------------------------------------
-DB_URI = os.environ.get("DATABASE_URL", "")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://erenyeagermikasa84:pkbOXb3ulzi9cEFd@cluster0.ingt8mt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 # --------------------------------------------
 FSUB_LINK_EXPIRY = int(getenv("FSUB_LINK_EXPIRY", "30"))  # 0 means no expiry
