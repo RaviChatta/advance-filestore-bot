@@ -133,7 +133,7 @@ HELP_TXT = os.environ.get("HELP_TXT","<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟ�
 ABOUT_TXT = os.environ.get("ABOUT_TXT","<b><blockquote>◈ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/CulturedTeluguweeb> ᴄᴜʟᴛᴜʀᴇᴅ ᴡᴇᴇʙ </a>\n◈ ᴏɴɢᴏɪɴɢ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+BiVvkpD5ieIxZTNl>ᴏɴɢᴏɪɴɢ ᴄᴛᴡ </a>\n◈ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴀɴɪᴍᴇꜱ : <a href=https://t.me/+uCZlBWrgKCMyYmI1>ᴄᴛᴡ ᴀɴɪᴅᴇx</a></blockquote></b>")
 
 # --------------------------------------------
-START_MSG = os.environ.get("START_MESSAGE", "<blockquote><b> 𝐇𝐈 {first}✨ Cᴏᴍᴇ ғᴏʀ ᴛʜᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ, ᴅᴏɴ'ᴛ ᴍɪss ᴍʏ ᴄᴏᴏᴋɪɴɢ! <blockquote></b>\n<blockquote> The perfect dish can heal the soul! .</blockquote></b>")
+START_MSG = os.environ.get("START_MESSAGE", "<blockquote><b> 𝐇𝐈 {first}✨ Cᴏᴍᴇ ғᴏʀ ᴛʜᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ, ᴅᴏɴ'ᴛ ᴍɪss ᴍʏ ꜰɪʟᴇꜱ! <blockquote></b>\n<blockquote> I'ᴍ 𝐓ʜᴇ Uʟᴛɪᴍᴀᴛᴇ Fɪʟᴇ Sʜᴀʀɪɴɢ Bᴏᴛ! .</blockquote></b>")
 
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "<blockquote><b>ʜᴇʟʟᴏ {first}</b></blockquote>\n\n<blockquote><b>ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ʀᴇʟᴏᴀᴅ button ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛᴇᴅ ꜰɪʟᴇ.</b></blockquote>")
 
