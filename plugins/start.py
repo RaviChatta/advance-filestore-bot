@@ -203,8 +203,8 @@ async def start_command(client: Client, message: Message):
 
     # Send start message
     reply_markup = InlineKeyboardMarkup([
-        [InlineKeyboardButton("ᴍɪʀᴇ ᴄʜᴀɴɴᴇʟs", url="https://t.me/CulturedTeluguweeb")],
-        [InlineKeyboardButton("ᴀʙɪᴜᴛ", callback_data="about"), InlineKeyboardButton("ʜᴇʟᴪ", callback_data="help")]
+        [InlineKeyboardButton("ᴍօʀᴇ ᴄʜᴀɴɴᴇʟs", url="https://t.me/CulturedTeluguweeb")],
+        [InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about"), InlineKeyboardButton("ʜᴇʟᴪ", callback_data="help")]
     ])
     try:
         await asyncio.sleep(0.5)
@@ -319,7 +319,7 @@ async def not_joined(client: Client, message: Message):
         )
     except Exception as e:
         logger.error(f"Final error in not_joined: {e}")
-        await temp.edit(f"<blockquote><b>ᴇʀʀɪʀ, ᴄɪɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟɪᴪᴇʀ @Mehediyt69\nʀᴇᴀsɪɴ: {e}</b></blockquote>")
+        await temp.edit(f"<blockquote><b>ᴇʀʀɪʀ, ᴄɪɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟɪᴪᴇʀ @Raaaaavi\nʀᴇᴀsɪɴ: {e}</b></blockquote>")
         await asyncio.sleep(5)  # Show error for 5 seconds
         await temp.delete()
         return await start_command(client, message)  # Proceed to start_command even if error occurs
