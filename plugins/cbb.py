@@ -80,7 +80,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
         try:
             selected_image = random.choice(RANDOM_IMAGES)
             reply_markup = InlineKeyboardMarkup([
-                [InlineKeyboardButton("ᴍᴏʀᴇ ᴄʜᴀɴɴᴇʟs", url="https://t.me/Anime_Lord_List")],
+                [InlineKeyboardButton("ᴍᴏʀᴇ ᴄʜᴀɴɴᴇʟs", url="https://t.me/CulturedTeluguweeb")],
                 [InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about"), InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help")]
             ])
             caption = START_MSG.format(
