@@ -203,7 +203,7 @@ async def start_command(client: Client, message: Message):
 
     # Send start message
     reply_markup = InlineKeyboardMarkup([
-        [InlineKeyboardButton("ᴍɪʀᴇ ᴄʜᴀɴɴᴇʟs", url="https://t.me/Anime_Lord_List")],
+        [InlineKeyboardButton("ᴍɪʀᴇ ᴄʜᴀɴɴᴇʟs", url="https://t.me/CulturedTeluguweeb")],
         [InlineKeyboardButton("ᴀʙɪᴜᴛ", callback_data="about"), InlineKeyboardButton("ʜᴇʟᴪ", callback_data="help")]
     ])
     try:
