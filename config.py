@@ -154,7 +154,7 @@ CMD_TXT = """<blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockqu
 <b>›› /myplan :</b> ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ sᴛᴀᴛᴜs & ᴅᴇᴛᴀɪʟs
 <b>›› /count :</b> ᴛʀᴀᴄᴋ sʜᴏʀᴛɴᴇʀ ᴄʟɪᴄᴋs & ᴀɴᴀʟʏᴛɪᴄs"""
 
-CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "<b>• ʙʏ @CulturedTeluguweeb</b>")
+CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION","<b><blockquote>• ᴘᴏᴡᴇʀᴇᴅ ʙʏ @Culturedteluguweeb</blockquote></b>")
 # --------------------------------------------
 # Set true if you want Disable your Channel Posts Share button
 # --------------------------------------------
