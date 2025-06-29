@@ -106,7 +106,31 @@ RANDOM_IMAGES = [
     "https://telegra.ph/file/56dd0e678321b52d06a30-7e318251ff5a360fe8.jpg",
     "https://telegra.ph/file/627cd31179d8d02386e91-ef43b6f461362cbf8c.jpg",
     "https://telegra.ph/file/657602b7674627b13fa84-c1ba88aca3f1a3b2c9.jpg",
-    "https://telegra.ph/file/5f427fddfa0b02d266f49-b66f03a52b605fd06c.jpg"
+    "https://telegra.ph/file/5f427fddfa0b02d266f49-b66f03a52b605fd06c.jpg",
+    "https://files.catbox.moe/3mtgb2.jpg",
+    "https://files.catbox.moe/yly8lj.jpg",
+    "https://i.ibb.co/N6rTvZXG/x.jpg",
+    "https://i.ibb.co/pB8SMVfz/x.png",
+    "https://i.ibb.co/F4ytZfyG/x.jpg",
+    "https://files.catbox.moe/12x54p.jpg",
+    "https://files.catbox.moe/gknros.jpg",
+    "https://files.catbox.moe/hbxlc5.jpg",
+    "https://files.catbox.moe/vyro5k.jpg",
+    "https://files.catbox.moe/amw0s9.jpg",
+    "https://files.catbox.moe/grdfu6.jpg",
+    "https://files.catbox.moe/0c3vdv.jpg",
+    "https://files.catbox.moe/j5jj97.jpg",
+    "https://files.catbox.moe/dp11qk.jpg",
+    "https://files.catbox.moe/6xvysm.jpg",
+    "https://files.catbox.moe/naahka.jpg",
+    "https://files.catbox.moe/k3gmp4.jpg",
+    "https://files.catbox.moe/wwvshg.jpg",
+    "https://files.catbox.moe/roj8a1.jpg",
+    "https://files.catbox.moe/0z4rcb.jpg",
+    "https://files.catbox.moe/0hvbzu.jpg",
+    "https://files.catbox.moe/ooziqn.jpg",
+    "https://files.catbox.moe/oglgps.jpg"
+    
 ]
 
 MESSAGE_EFFECT_IDS = [
