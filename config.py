@@ -36,8 +36,8 @@ FSUB_LINK_EXPIRY = int(getenv("FSUB_LINK_EXPIRY", "30"))  # 0 means no expiry
 BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/+IIgB6RgivTI2NzA1")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 # --------------------------------------------
-START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/ec17880d61180d3312d6a.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b9dcbd1.jpg")
+START_PIC = os.environ.get("START_PIC", "https://i.ibb.co/F4ytZfyG/x.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://files.catbox.moe/jj1u54.jpg")
 
 # --------------------------------------------
 # List of images for random selection in /start, /help, /about
