@@ -34,7 +34,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 # --------------------------------------------
 FSUB_LINK_EXPIRY = int(getenv("FSUB_LINK_EXPIRY", "30"))  # 0 means no expiry
 BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/+IIgB6RgivTI2NzA1")
-TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
+TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "8"))
 # --------------------------------------------
 START_PIC = os.environ.get("START_PIC", "https://i.ibb.co/F4ytZfyG/x.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://files.catbox.moe/jj1u54.jpg")
