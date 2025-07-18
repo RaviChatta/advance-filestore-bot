@@ -160,7 +160,9 @@ async def start_command(client: Client, message: Message):
         auto_delete_mode = await db.get_auto_delete_mode()  # Check auto-delete mode
         if auto_delete_mode and FILE_AUTO_DELETE > 0:  # Only proceed if mode is enabled and timer is positive
             notification_msg = await message.reply(
-                f"ᴛʜɪs ғɪʟᴇ ᴡɪʟʟ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ ɪɴ {get_exp_time(FILE_AUTO_DELETE).lower()}. ᴘʟᴇᴀsᴇ sᴀᴠᴇ ᴏʀ ғɪʀᴡᴀʀᴅ ɪᴛ ᴛɪ ʏɪᴜʀ sᴀᴠᴇᴅ ᴍᴇssᴀɢᴇs ʙᴇғɪʀᴇ ɪᴛ ɢᴇᴛs ᴅᴇʟᴇᴛᴇᴅ.",
+                f"ᴛʜɪs ғɪʟᴇ ᴡɪʟʟ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ ɪɴ {get_exp_time(FILE_AUTO_DELETE).lower()}. "
+                f"ᴘʟᴇᴀsᴇ sᴀᴠᴇ ᴏʀ ғᴏʀᴡᴀʀᴅ ɪᴛ ᴛᴏ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴍᴇssᴀɢᴇs ʙᴇғᴏʀᴇ ɪᴛ ɢᴇᴛs ᴅᴇʟᴇᴛᴇᴅ. "
+                f"ᴜsᴇ @Tfifiletolinkbot ғᴏʀ sᴛʀᴇᴀᴍ ᴀɴᴅ ғᴀsᴛ ᴅᴏᴡɴʟᴏᴀᴅ.",
                 message_effect_id=random.choice(MESSAGE_MESSAGE_EFFECT_IDS)
             )
             await asyncio.sleep(FILE_AUTO_DELETE)
