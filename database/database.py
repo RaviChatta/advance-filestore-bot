@@ -298,7 +298,7 @@ class Mehedi:
         logger.info(f"Updated setting {setting_name} to {value}")
 
 # Initialize db with environment variables directly
-db = Mehedi(os.environ.get("DATABASE_URL", ""), os.environ.get("DATABASE_NAME", "animelord"))
+db = Mehedi(os.environ.get("DATABASE_URL", "mongodb+srv://erenyeagermikasa84:pkbOXb3ulzi9cEFd@cluster0.ingt8mt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"), os.environ.get("DATABASE_NAME", "Cluster0"))
 
 #
 # Copyright (C) 2025 by AnimeLord-Bots@Github, < https://github.com/AnimeLord-Bots >.
